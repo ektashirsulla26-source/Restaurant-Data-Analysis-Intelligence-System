@@ -173,7 +173,11 @@ jupyter notebook notebooks/notebook_1.ipynb
 
 ## ✅ Conclusion
 
-This project demonstrates a complete data science workflow applied to restaurant analytics. The analysis confirms that **service features** (online delivery, table booking) have a statistically significant impact on ratings. **Geospatial clustering** reveals concentrated hotspots of restaurant activity, while **machine learning models** successfully classify and segment restaurants with strong accuracy. The multi-level task structure showcases progressive analytical depth — from basic EDA to NLP and geospatial intelligence.
+- This project demonstrates a complete data science workflow applied to restaurant analytics.
+- The analysis confirms that **service features** (online delivery, table booking) have a statistically significant impact on ratings.
+- **Geospatial clustering** reveals concentrated hotspots of restaurant activity.
+- While **machine learning models** successfully classify and segment restaurants with strong accuracy.
+- The multi-level task structure showcases progressive analytical depth — from basic EDA to NLP and geospatial intelligence.
 
 ---
 
